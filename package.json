@@ -1,0 +1,32 @@
+{
+  "name": "wpm-fetch",
+  "version": "0.0.1",
+  "description": "微信小程序，请求封装，实现可配置的请求，使用promise进行封装",
+  "main": "./build/index.js",
+  "keywords": [
+    "axios",
+    "fetch",
+    "ajax",
+    "request",
+    "wx.request",
+    "请求",
+    "微信",
+    "wx",
+    "wpm",
+    "小程序"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run tswatch",
+    "tsc": "tsc",
+    "tswatch": "tsc -w"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.5.3"
+  },
+  "author": "vis",
+  "license": "MIT",
+  "dependencies": {
+    "qs": "^6.8.0"
+  }
+}
