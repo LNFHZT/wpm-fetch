@@ -1,6 +1,6 @@
 {
   "name": "wpm-fetch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "微信小程序，请求封装，实现可配置的请求，使用promise进行封装",
   "main": "./build/index.js",
   "keywords": [
@@ -23,6 +23,11 @@
   },
   "devDependencies": {
     "@types/qs": "^6.5.3"
+  },
+  "homepage": "https://github.com/LNFHZT/wpm-fetch",
+  "bugs": {
+    "url": "https://github.com/LNFHZT/wpm-fetch/issues",
+    "email": "LNFHZT@163.com"
   },
   "author": "vis",
   "license": "MIT",

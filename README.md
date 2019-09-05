@@ -125,7 +125,9 @@ ps: 如果不用用$fetch 作为 请求名 可以 ```wpm.prototype.xxxx = fetch;
 
 
 ## 版本
-* alpha v0.0.1</br>
+* alpha v0.0.1
   >使用ts 重构，重新规划拦截器和项目结构
   >缩减原项目实现过多的冗余的功能,尽量精简
   >实现 基本请求封装，公共配置实现
+* alpha v0.0.2
+  >1.项目关联github
